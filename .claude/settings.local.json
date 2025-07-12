@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs",
+      "Bash(npx create-next-app:*)",
+      "Bash(npm install)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(npm install:*)"
+    ],
+    "deny": []
+  }
+}
